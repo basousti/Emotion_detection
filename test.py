@@ -74,3 +74,5 @@ print(predict_emotion("I feel very happy today"))
 print(predict_emotion("I am sad and tired"))
 print(predict_emotion("I am extremely angry"))
 print(predict_emotion("I'm excited"))
+
+print("What if it works ")
